@@ -37,10 +37,10 @@
 ## 3. Your first repository
 
    - Configuration 
-        - ``
-          -  $ git config --global user.name "githubUsername"
-          -  $ git config --global user.email "Foulen@Domaine.com"
-          ``
+        - ```
+            $ git config --global user.name "githubUsername"
+            $ git config --global user.email "Foulen@Domaine.com"
+          ```
       
 
 
