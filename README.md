@@ -8,7 +8,7 @@
 
 
 ## 2. Commands
- ### - Most used
+      ### Most used
  #### Create . Modifiy . Synchronize 
 | Command | Description |
 | --- | --- |
