@@ -8,7 +8,7 @@
 
 
 ## 2. Commands
-      ### Most used
+   ### Most used
  #### Create . Modifiy . Synchronize 
 | Command | Description |
 | --- | --- |
@@ -38,8 +38,8 @@
 
    - Configuration 
         - ``
-            $ git config --global user.name "githubUsername"
-            $ git config --global user.email "Foulen@Domaine.com"
+          -  $ git config --global user.name "githubUsername"
+          -  $ git config --global user.email "Foulen@Domaine.com"
           ``
       
 
