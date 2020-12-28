@@ -8,7 +8,7 @@
 
 ## 2. Commands
  ### Most used 
-| Command | Description | Example
+| Command | Description |
 | --- | --- |
 | git init |  |
 | git clone |  |
@@ -27,8 +27,8 @@
 
    - Configuration 
          ``
-           $ git config --global user.name "githubUsername"
-           $ git config --global user.email "Foulen@Domaine.com"
+           - $ git config --global user.name "githubUsername"
+           - $ git config --global user.email "Foulen@Domaine.com"
           ``
       
 
