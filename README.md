@@ -6,15 +6,31 @@
 ##### Or you can install it from this Link: 
 
 
-## 2. Your First Repository
-.... some stuff :p 
+## 2. Commands
+ ### Most used 
+| Command | Description | Example
+| --- | --- |
+| git init |  |
+| git clone |  |
+| git add |  |
+| git commit |  |
+| git pull |  |
+| git push |  |
 
-      - Configuration 
-        - ``
+| Command | Description |
+| --- | --- |
+| git status |  |
+| git diff |  |
+| git log |  |
+
+## 3. Your first repository
+
+   - Configuration 
+         ``
            $ git config --global user.name "githubUsername"
            $ git config --global user.email "Foulen@Domaine.com"
-           ``
-      - 
+          ``
+      
 
 
 
