@@ -1,4 +1,4 @@
-# Github-Cheat-Sheet-for-Beginners
+# Git&Github-Cheat-Sheet-for-Beginners
 
 
 ## 1. Make sure you have GIT installed in your PC 
@@ -8,8 +8,8 @@
 
 
 ## 2. Commands
-   ### Most used
- #### Create . Modifiy . Synchronize 
+  ### Most used
+   #### Create . Modifiy . Synchronize 
 | Command | Description |
 | --- | --- |
 | git init | Create a local repository|
@@ -24,9 +24,10 @@
 | --- | --- |
 | git status |  |
 | git diff |  |
-| git log |  |
+| git log | Listing commits made in the current Git repository|
+| git show | displaying informations about commit according to its ID   |
 
-#### Rollbacks
+#### Undo & Rollbacks
 | Command | Description |
 | --- | --- |
 
@@ -36,7 +37,9 @@
 
 ## 3. Your first repository
 
+
    - Configuration 
+   
         - ```
             $ git config --global user.name "githubUsername"
             $ git config --global user.email "Foulen@Domaine.com"
