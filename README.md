@@ -12,10 +12,10 @@
  #### Create . Modifiy . Synchronize 
 | Command | Description |
 | --- | --- |
-| git init |  |
-| git clone |  |
-| git add |  |
-| git commit |  |
+| git init | Create a local repository|
+| git clone | Copying an exisiting repository to your local desktop  |
+| git add | Adding changed and new files to the staging area to be commited |
+| git commit | Taking a snapshopt of the current state of the project |
 | git pull |  |
 | git push |  |
 
