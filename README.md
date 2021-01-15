@@ -56,6 +56,17 @@
             $ git config --global user.email "Foulen@Domaine.com"
           ```
       
-
-
-
+   - Create New Repository in github 
+       - ![alt text](https://github.com/rihemebh/Github-Cheat-Sheet-for-Beginners/blob/main/pictures/newrepo0.png)
+         ![](https://github.com/rihemebh/Github-Cheat-Sheet-for-Beginners/blob/main/pictures/create%20repo.PNG)
+   - Clone the Repository in your Local machine 
+      - `
+            $ git clone https://github.com/userName/RepoName.git
+        `
+   - Open the folder and start your project
+   - Add changes to the staging Area
+      - ` $ git add . `
+   - Commit changes 
+      - ` $ git commit -m "commit message" `
+   - Push changes to remote 
+      - ` $ git push `
