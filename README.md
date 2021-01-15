@@ -38,11 +38,11 @@
 | Command | Description |
 | --- | --- |
 |git branch | Listing exsiting branches in the project|
-|git branch branchName | Creating new branch|
-|git checkout branchName | Switching to a different branch|
-|git checkout -b branchName|Creating a new branch and switching to it|
-|git branch -d branchName | Delete branch |
-|git merge branchName |Adding branch's modifications to the current branch|
+|git branch \<branchName\>  | Creating new branch|
+|git checkout \<branchName\>  | Switching to a different branch|
+|git checkout -b \<branchName\> |Creating a new branch and switching to it|
+|git branch -d \<branchName\>  | Delete branch |
+|git merge \<branchName\> |Adding branch's modifications to the current branch|
 
       
 
