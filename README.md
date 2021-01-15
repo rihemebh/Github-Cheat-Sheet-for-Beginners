@@ -16,24 +16,35 @@
 | git clone | Copying an exisiting repository to your local desktop  |
 | git add | Adding changed and new files to the staging area to be commited |
 | git commit <br /> git commit -a | Taking a snapshopt of the current state of the project <br /> Commit by skipping the staging area |
-| git pull |  |
-| git push |  |
+| git pull | fetching updates from the remote repo to your local one |
+| git push | Pushing commits from your local repository to your remote one |
 
-#### Track & Check 
+#### Track
 | Command | Description |
 | --- | --- |
-| git status |  |
-| git diff |  |
+| git status | Show the working tree status|
 | git log| Listing commits made in the current Git repository |
-| git show | displaying informations about commit according to its ID   |
+| git show | Displaying informations about commit according to its ID   |
 
 #### Undo & Rollbacks
 | Command | Description |
 | --- | --- |
+|git checkout|Discarding changes of an unstaged file |
+|git commit --amend|Modifying the latest commit |
+|git reset | Unstaging modifications|
+|git revert | Creating a new commit that undo the changes from a previous commit |
 
 #### Branches
 | Command | Description |
 | --- | --- |
+|git branch | Listing exsiting branches in the project|
+|git branch branchName | Creating new branch|
+|git checkout branchName | Switching to a different branch|
+|git checkout -b branchName|Creating a new branch and switching to it|
+|git branch -d branchName | Delete branch |
+|git merge branchName |Adding branch's modifications to the current branch|
+
+      
 
 ## 3. Your first repository
 
