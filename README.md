@@ -14,8 +14,8 @@
 | --- | --- |
 | git init | Create a local repository|
 | git clone | Copying an exisiting repository to your local desktop  |
-| git add | Adding changed and new files to the staging area to be commited |
-| git commit <br /> git commit -a | Taking a snapshopt of the current state of the project <br /> Commit by skipping the staging area |
+| git add | Adding changed and new files to the staging area to be committed |
+| git commit <br /> git commit -a | Taking a snapshot of the current state of the project <br /> Commit by skipping the staging area |
 | git pull | fetching updates from the remote repo to your local one |
 | git push | Pushing commits from your local repository to your remote one |
 
